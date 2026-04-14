@@ -1,7 +1,3 @@
-Here is a clean, professional rewrite of your README with all social media, promotional content, and external links removed. I’ve also tightened the language and improved structure so it reads more like a strong portfolio project:
-
----
-
 # Data Warehouse and Analytics Project
 
 ## Overview

@@ -91,8 +91,6 @@ These outputs support **data-driven decision-making**.
 
 ## 🎯 Key Skills & Keywords
 
-> (Optimized for recruiter search & GitHub SEO)
-
 * Data Warehouse Development
 * Data Engineering Project
 * ETL Pipeline (Extract Transform Load)
@@ -152,8 +150,3 @@ This project is ideal for:
 This project is licensed under the **MIT License**.
 ---
 
-If you want next step, I can:
-
-* Add **GitHub badges (stars, forks, SQL, license)**
-* Write a **1-line killer repo description (very important for SEO)**
-* Optimize your **project title + tags for search ranking**
